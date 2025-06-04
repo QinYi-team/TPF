@@ -1,1 +1,1 @@
-# IES
+# Id-Ego-Superego: a fusion prototype model with contrastive learning and diffusion model for zero-shot fault diagnosis. The paper is under review. The code will be made public after the paper is accepted.
